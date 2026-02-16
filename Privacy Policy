@@ -1,0 +1,19 @@
+privacy.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Privacy Policy - AI BodyGuard</title>
+  <meta charset="UTF-8">
+</head>
+<body style="font-family: Arial; padding: 40px;">
+
+<h1>Privacy Policy</h1>
+
+<p>AI BodyGuard collects location, device, and behavioral data to provide real-time child protection services.</p>
+
+<p>We do not sell personal data. All information is securely stored using Supabase.</p>
+
+<p>For questions contact: support@aibodyguard.com</p>
+
+</body>
+</html>
