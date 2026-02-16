@@ -1,0 +1,33 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI BodyGuard</title>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #0F172A;
+      color: white;
+      text-align: center;
+      padding: 50px;
+    }
+    a {
+      color: #38BDF8;
+      text-decoration: none;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>AI BodyGuard</h1>
+  <p>Real-time child safety monitoring and AI risk detection system.</p>
+
+  <p>
+    <a href="privacy.html">Privacy Policy</a> |
+    <a href="terms.html">Terms of Service</a>
+  </p>
+
+</body>
+</html>
